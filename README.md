@@ -1,3 +1,11 @@
+# **Papers, please (actele la control)!**
+Papers, please este un joc care simulează activitatea vamală. Acțiunea este plasată în jurul anului 2231 într-o Românie dezbinată din cauza conflictelor politice, aceasta fiind împarțită în 10 zone principale. Scopul tău este să mediezi accesul oamenilor în Dobrogea, punct vamal care ți-a fost încredințat ca vameș. Acceptă toți imigranții cu acte în regulă și respinde pe oricine ar putea pune în pericol integritatea statului. În caz contrat, consecințele vor fi pe măsură.
+
+### **Scopul jocului** 
+Verifică documentele fiecărui om care trece prin punctul vamal, semnalând orice neregulă a oamenilor ce vor sa treacă ilegal granița. 
+
+#Note: Joc inspirat după jocul Papers, please! creat de Lucas Pope.
+
 # Nu primesc notă pentru că nu am pus titlu și descriere
 
 ### Important!

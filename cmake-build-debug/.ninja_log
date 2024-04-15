@@ -1,0 +1,16 @@
+# ninja log v5
+3	986	7349072043155039	CMakeFiles/untitled.dir/Statistics.cpp.obj	664d7482d40ea797
+14	963	7348379149112724	CMakeFiles/untitled.dir/Imigrant.cpp.obj	8d1bd4074a8a1a10
+8	1508	7349096811880169	CMakeFiles/untitled.dir/Passport.cpp.obj	f9cfb58912bbbad8
+3	1213	7348986825032463	CMakeFiles/untitled.dir/main.cpp.obj	7a104c93197a0b28
+4	1101	7349078832496675	CMakeFiles/untitled.dir/Document.cpp.obj	e2f795d4c36813e0
+4	1028	7349100089141416	CMakeFiles/untitled.dir/Game.cpp.obj	c2988d70989406a3
+1028	1241	7349100091261130	untitled.exe	622878ad85491d2a
+9	2391	7349078110213897	CMakeFiles/untitled.dir/Entry_Permit.cpp.obj	d23ff6027ce845c6
+3	1000	7349075614733460	CMakeFiles/untitled.dir/Identity_Card.cpp.obj	381e7348c3c8820e
+0	199	7349072032667217	build.ninja	b47400dabb5ee795
+11	1015	7349072043464214	CMakeFiles/untitled.dir/Immigrant.cpp.obj	e565ee8026646e67
+6	1152	7349102338168237	CMakeFiles/untitled.dir/Game.cpp.obj	c2988d70989406a3
+1153	1327	7349102339886885	untitled.exe	622878ad85491d2a
+4	1036	7349104595612369	CMakeFiles/untitled.dir/Game.cpp.obj	c2988d70989406a3
+1036	1256	7349104597786557	untitled.exe	622878ad85491d2a

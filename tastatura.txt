@@ -1,6 +1,3 @@
-Accepta
-Enter
-Accepta
-Enter
-Refuza
+1
+Accept
 Exit

@@ -8,6 +8,7 @@
 class Passport : public Document {
 private:
     std::string zone, code, city;
+    Document *D;
 public:
     Passport(
             const std::string &name,

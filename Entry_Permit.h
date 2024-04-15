@@ -9,6 +9,8 @@ class Entry_Permit : public Document {
 private:
     std::vector<std::string> permission;
     std::string reason;
+    Document *D;
+
 public:
     Entry_Permit(const std::string &name, const std::string &expiryDate, const std::string &sex, const std::string &reason);
 

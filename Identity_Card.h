@@ -7,7 +7,7 @@
 class Identity_Card : public Document {
 private:
     std::string zone;
-
+    Document *D;
 public:
     Identity_Card(const std::string &name,
                   const std::string &sex,

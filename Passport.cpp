@@ -44,6 +44,7 @@ std::ostream &operator<<(std::ostream &out, const Passport &passport) {
     return out;
 }
 
+
 Passport &Passport::operator=(const Passport &passport1) {
     this->name = passport1.name;
     this->sex = passport1.sex;

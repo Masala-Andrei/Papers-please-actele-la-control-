@@ -1,5 +1,5 @@
-#include "Entry_Permit.h"
-#include "Game.h"
+#include "../headers/Entry_Permit.h"
+#include "../headers/Game.h"
 #include "random"
 #include "fstream"
 #include "algorithm"

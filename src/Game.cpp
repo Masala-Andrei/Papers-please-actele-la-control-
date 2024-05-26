@@ -1,14 +1,14 @@
-#include "Game.h"
+#include "../headers/Game.h"
 #include <iostream>
 #include <ostream>
 #include <random>
 
 
-#include "Immigrant.h"
-#include "Statistics.h"
-#include "Passport.h"
-#include "Entry_Permit.h"
-#include "Identity_Card.h"
+#include "../headers/Immigrant.h"
+#include "../headers/Statistics.h"
+#include "../headers/Passport.h"
+#include "../headers/Entry_Permit.h"
+#include "../headers/Identity_Card.h"
 
 int Game::MISTAKES;
 std::string Game::s_day;

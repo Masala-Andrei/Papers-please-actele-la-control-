@@ -1,5 +1,5 @@
-#include "Passport.h"
-#include "Game.h"
+#include "../headers/Passport.h"
+#include "../headers/Game.h"
 #include "thread"
 #include "random"
 #include "fstream"

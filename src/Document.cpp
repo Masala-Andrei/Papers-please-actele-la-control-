@@ -1,4 +1,4 @@
-#include "Document.h"
+#include "../headers/Document.h"
 #include "fstream"
 #include "random"
 

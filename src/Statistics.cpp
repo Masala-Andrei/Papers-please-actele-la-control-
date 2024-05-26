@@ -1,4 +1,4 @@
-#include "Statistics.h"
+#include "../headers/Statistics.h"
 #include "iostream"
 
 Statistics::Statistics(int correct_answers, int wrong_answers, int credit) : correct_answers(correct_answers), wrong_answers(wrong_answers), credit(credit) {}

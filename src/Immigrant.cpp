@@ -1,5 +1,5 @@
 #include "iostream"
-#include "Immigrant.h"
+#include "../headers/Immigrant.h"
 
 Immigrant::Immigrant(int height, int weight) : height(height),weight(weight){}
 

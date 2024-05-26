@@ -1,5 +1,5 @@
-#include "Identity_Card.h"
-#include "Game.h"
+#include "../headers/Identity_Card.h"
+#include "../headers/Game.h"
 #include "random"
 #include "fstream"
 

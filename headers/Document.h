@@ -10,6 +10,8 @@ protected:
 public:
     explicit Document(const std::string &name, const std::string &expiry_date, const std::string &sex);
 
+    Document() = default;
+
     virtual ~Document();
 
     virtual void alter() = 0;

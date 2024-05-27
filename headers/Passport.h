@@ -10,6 +10,9 @@ private:
     std::string zone, code, city;
     Document *D;
 public:
+
+    Passport() = default;
+
     Passport(
             const std::string &name,
             const std::string &sex,

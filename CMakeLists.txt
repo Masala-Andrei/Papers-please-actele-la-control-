@@ -17,4 +17,7 @@ add_executable(untitled main.cpp
         src/Entry_Permit.cpp
         headers/Entry_Permit.h
         src/Identity_Card.cpp
-        headers/Identity_Card.h)
+        headers/Identity_Card.h
+        headers/DocumentFactory.h
+        src/DocumentFactory.cpp
+)
